@@ -1,0 +1,4 @@
+#Fri Jan 11 12:16:10 IST 2019
+base.0=/home/dbws/gsearch/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

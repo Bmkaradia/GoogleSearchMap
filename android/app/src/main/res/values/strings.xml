@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">gsearch</string>
+    <string name="gmap_app_id">Your Api Key</string>
+</resources>
